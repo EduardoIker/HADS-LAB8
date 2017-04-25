@@ -1,0 +1,8 @@
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\bin\Debug\EmailSender.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\bin\Debug\EmailSender.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\obj\Debug\EmailSender.Resources.resources
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\obj\Debug\EmailSender.vbproj.GenerateResource.Cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\obj\Debug\EmailSender.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\obj\Debug\EmailSender.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\EmailSender\obj\Debug\EmailSender.pdb

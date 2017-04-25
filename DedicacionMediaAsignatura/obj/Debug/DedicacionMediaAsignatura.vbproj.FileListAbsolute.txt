@@ -1,0 +1,8 @@
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\bin\DedicacionMediaAsignatura.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\bin\DedicacionMediaAsignatura.pdb
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\bin\DedicacionMediaAsignatura.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\obj\Debug\DedicacionMediaAsignatura.Resources.resources
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\obj\Debug\DedicacionMediaAsignatura.vbproj.GenerateResource.Cache
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\obj\Debug\DedicacionMediaAsignatura.dll
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\obj\Debug\DedicacionMediaAsignatura.xml
+C:\Users\Iker\Documents\Visual Studio 2012\Projects\WebApplication2\DedicacionMediaAsignatura\obj\Debug\DedicacionMediaAsignatura.pdb
