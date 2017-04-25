@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea>
+    <codigo>EDA07-Ej1</codigo>
+    <descripcion>Ejercicio sobre listas ligadas</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA07-TEST1</codigo>
+    <descripcion>Test listas ligadas</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA12</codigo>
+    <descripcion>Ejercicio 2 del tema 1</descripcion>
+    <hestimadas>11</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA13</codigo>
+    <descripcion>Examen</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+</tareas>

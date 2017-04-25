@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tareas xmlns:eda1="http://ji.ehu.es/eda1">
+  <tarea>
+    <codigo>EDA07-Ej1</codigo>
+    <descripcion>Ejercicio sobre listas ligadas</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA07-TEST1</codigo>
+    <descripcion>Test listas ligadas</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA07-TEST2</codigo>
+    <descripcion>Test grafos</descripcion>
+    <hestimadas>5</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA11</codigo>
+    <descripcion>Ejercicio 1 del tema 1</descripcion>
+    <hestimadas>11</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA12</codigo>
+    <descripcion>Ejercicio 2 del tema 1</descripcion>
+    <hestimadas>11</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA13</codigo>
+    <descripcion>Examen</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA-HW01</codigo>
+    <descripcion>knjhbhbjhb</descripcion>
+    <hestimadas>2</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA-HW02</codigo>
+    <descripcion>bvghjvvhjhbhjvgcfhc</descripcion>
+    <hestimadas>5</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EDA-TF</codigo>
+    <descripcion>Trabajo final de la asignatura</descripcion>
+    <hestimadas>35</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>EX-123</codigo>
+    <descripcion>examen</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>probandoLAB4</codigo>
+    <descripcion>probando ...</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>True</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>SEG16-Test1</codigo>
+    <descripcion>Test 1 sobre conceptos generales</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea>
+    <codigo>SEG16-Trabajo20</codigo>
+    <descripcion>Cookies y Sesiones</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>False</explotacion>
+    <tipotarea>Trabajo</tipotarea>
+  </tarea>
+</tareas>
